@@ -1,0 +1,6 @@
+{
+  "name": "Pool NFT #1",
+  "description": "My first NFT",
+  "image": "ipfs://QmAbCdEf123/image.png",
+  "attributes": [{ "trait_type": "Rarity", "value": "Common" }]
+}
